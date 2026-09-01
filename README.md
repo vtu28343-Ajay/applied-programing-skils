@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0735-asteroid-collision) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
