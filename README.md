@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0739-daily-temperatures) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vtu28343-Ajay/applied-programing-skils/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
